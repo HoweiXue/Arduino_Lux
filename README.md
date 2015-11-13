@@ -1,2 +1,2 @@
-# Arduino
+# Arduino_Lux
 Arduino codes
